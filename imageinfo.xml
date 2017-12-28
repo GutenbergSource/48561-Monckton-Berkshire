@@ -1,0 +1,218 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/backcover.jpg" filesize="60197" filedate="2015-03-22 08:43:27" width="485px" height="720px">
+</image>
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/frontcover.jpg" filesize="71101" filedate="2015-02-08 09:56:20" width="486px" height="720px">
+</image>
+<image path="images/leftbrace10.png" filesize="712" filedate="2015-03-20 20:01:41" width="22px" height="207px">
+</image>
+<image path="images/leftbrace15.png" filesize="765" filedate="2015-03-20 20:02:38" width="30px" height="354px">
+</image>
+<image path="images/leftbrace21.png" filesize="989" filedate="2015-03-20 20:02:10" width="29px" height="467px">
+</image>
+<image path="images/leftbrace3.png" filesize="325" filedate="2015-03-20 19:57:49" width="14px" height="58px">
+</image>
+<image path="images/leftbrace4.png" filesize="427" filedate="2015-03-20 19:59:38" width="18px" height="87px">
+</image>
+<image path="images/leftbrace5.png" filesize="461" filedate="2015-03-20 20:00:28" width="18px" height="104px">
+</image>
+<image path="images/map1.jpg" filesize="102045" filedate="2015-03-15 11:53:10" width="720px" height="546px">
+</image>
+<image path="images/map1h.jpg" filesize="530649" filedate="2015-03-15 11:52:41" width="2048px" height="1554px">
+</image>
+<image path="images/map2.jpg" filesize="110952" filedate="2015-03-22 08:36:33" width="720px" height="545px">
+</image>
+<image path="images/map2h.jpg" filesize="585730" filedate="2015-03-22 08:35:54" width="2048px" height="1549px">
+</image>
+<image path="images/p002.jpg" filesize="56089" filedate="2015-02-08 08:54:06" width="720px" height="462px">
+</image>
+<image path="images/p007.jpg" filesize="28424" filedate="2015-02-08 08:58:09" width="483px" height="305px">
+</image>
+<image path="images/p010.jpg" filesize="59368" filedate="2015-02-08 09:17:55" width="720px" height="465px">
+</image>
+<image path="images/p012.jpg" filesize="24639" filedate="2015-02-08 09:20:41" width="477px" height="292px">
+</image>
+<image path="images/p013.jpg" filesize="28023" filedate="2015-02-08 09:23:49" width="480px" height="292px">
+</image>
+<image path="images/p016.jpg" filesize="25533" filedate="2015-02-10 19:48:02" width="477px" height="315px">
+</image>
+<image path="images/p017.jpg" filesize="33865" filedate="2015-02-10 19:51:29" width="473px" height="326px">
+</image>
+<image path="images/p019.jpg" filesize="33984" filedate="2015-02-10 19:54:29" width="475px" height="332px">
+</image>
+<image path="images/p021.jpg" filesize="36119" filedate="2015-02-10 19:56:45" width="476px" height="300px">
+</image>
+<image path="images/p022.jpg" filesize="28071" filedate="2015-02-10 19:59:32" width="474px" height="314px">
+</image>
+<image path="images/p024.jpg" filesize="50419" filedate="2015-02-10 20:03:46" width="689px" height="475px">
+</image>
+<image path="images/p030.png" filesize="6056" filedate="2015-02-10 20:06:58" width="491px" height="145px">
+</image>
+<image path="images/p031.png" filesize="18833" filedate="2015-02-10 20:09:57" width="271px" height="383px">
+</image>
+<image path="images/p033.jpg" filesize="44727" filedate="2015-03-15 11:03:18" width="479px" height="349px">
+</image>
+<image path="images/p037.jpg" filesize="81907" filedate="2015-03-15 11:06:12" width="441px" height="575px">
+</image>
+<image path="images/p039.jpg" filesize="34814" filedate="2015-03-15 11:09:09" width="475px" height="329px">
+</image>
+<image path="images/p040.jpg" filesize="36603" filedate="2015-03-15 11:11:50" width="478px" height="346px">
+</image>
+<image path="images/p045.jpg" filesize="43802" filedate="2015-03-15 11:14:27" width="481px" height="389px">
+</image>
+<image path="images/p046.jpg" filesize="25835" filedate="2015-03-15 11:17:16" width="476px" height="321px">
+</image>
+<image path="images/p050.png" filesize="59957" filedate="2015-03-15 11:22:08" width="451px" height="720px">
+</image>
+<image path="images/p050h.jpg" filesize="375149" filedate="2015-03-15 11:21:36" width="1415px" height="2259px">
+</image>
+<image path="images/p058.jpg" filesize="35204" filedate="2015-03-15 11:25:42" width="479px" height="315px">
+</image>
+<image path="images/p061.jpg" filesize="47052" filedate="2015-03-15 11:28:26" width="472px" height="340px">
+</image>
+<image path="images/p063.jpg" filesize="41607" filedate="2015-03-15 11:31:26" width="478px" height="328px">
+</image>
+<image path="images/p064.jpg" filesize="30279" filedate="2015-03-15 11:33:49" width="480px" height="377px">
+</image>
+<image path="images/p067.jpg" filesize="28604" filedate="2015-03-15 11:36:33" width="325px" height="445px">
+</image>
+<image path="images/p069.jpg" filesize="67796" filedate="2015-03-15 11:40:33" width="691px" height="482px">
+</image>
+<image path="images/p071.jpg" filesize="44919" filedate="2015-03-17 17:53:45" width="478px" height="345px">
+</image>
+<image path="images/p074.jpg" filesize="34019" filedate="2015-03-17 17:56:34" width="478px" height="297px">
+</image>
+<image path="images/p078.jpg" filesize="31899" filedate="2015-03-17 17:58:59" width="477px" height="320px">
+</image>
+<image path="images/p079.jpg" filesize="19909" filedate="2015-03-17 18:01:54" width="248px" height="515px">
+</image>
+<image path="images/p083.jpg" filesize="47907" filedate="2015-03-17 18:04:08" width="478px" height="372px">
+</image>
+<image path="images/p084.jpg" filesize="25057" filedate="2015-03-17 18:29:42" width="409px" height="474px">
+</image>
+<image path="images/p087.jpg" filesize="26722" filedate="2015-03-17 20:29:23" width="477px" height="312px">
+</image>
+<image path="images/p088.jpg" filesize="22776" filedate="2015-03-17 20:33:14" width="477px" height="286px">
+</image>
+<image path="images/p092.jpg" filesize="21075" filedate="2015-03-18 06:14:33" width="300px" height="426px">
+</image>
+<image path="images/p094.jpg" filesize="34654" filedate="2015-03-18 06:17:48" width="481px" height="351px">
+</image>
+<image path="images/p096.jpg" filesize="32039" filedate="2015-03-18 06:20:05" width="298px" height="405px">
+</image>
+<image path="images/p097.jpg" filesize="36964" filedate="2015-03-18 06:22:19" width="333px" height="446px">
+</image>
+<image path="images/p098.jpg" filesize="33832" filedate="2015-03-18 06:25:29" width="474px" height="374px">
+</image>
+<image path="images/p099.jpg" filesize="33037" filedate="2015-03-18 06:28:33" width="478px" height="342px">
+</image>
+<image path="images/p100.jpg" filesize="32445" filedate="2015-03-18 06:31:51" width="476px" height="337px">
+</image>
+<image path="images/p101.jpg" filesize="36113" filedate="2015-03-18 06:35:33" width="480px" height="333px">
+</image>
+<image path="images/p103.jpg" filesize="43719" filedate="2015-03-18 20:28:20" width="480px" height="338px">
+</image>
+<image path="images/p104.jpg" filesize="37025" filedate="2015-03-18 20:32:17" width="475px" height="328px">
+</image>
+<image path="images/p105.jpg" filesize="33436" filedate="2015-03-18 20:35:42" width="477px" height="293px">
+</image>
+<image path="images/p106.jpg" filesize="28430" filedate="2015-03-18 20:39:32" width="469px" height="320px">
+</image>
+<image path="images/p107.jpg" filesize="25471" filedate="2015-03-18 20:44:09" width="475px" height="294px">
+</image>
+<image path="images/p110.jpg" filesize="22884" filedate="2015-03-18 20:48:21" width="326px" height="439px">
+</image>
+<image path="images/p112.jpg" filesize="24715" filedate="2015-03-18 20:53:17" width="302px" height="418px">
+</image>
+<image path="images/p115.jpg" filesize="46319" filedate="2015-03-18 20:56:58" width="476px" height="384px">
+</image>
+<image path="images/p116.jpg" filesize="40965" filedate="2015-03-18 21:00:48" width="466px" height="304px">
+</image>
+<image path="images/p118.jpg" filesize="48100" filedate="2015-03-18 21:03:46" width="376px" height="511px">
+</image>
+<image path="images/p120.jpg" filesize="21609" filedate="2015-03-19 21:19:13" width="476px" height="289px">
+</image>
+<image path="images/p121.jpg" filesize="66462" filedate="2015-03-19 21:22:44" width="720px" height="454px">
+</image>
+<image path="images/p122.jpg" filesize="36347" filedate="2015-03-19 21:26:15" width="475px" height="342px">
+</image>
+<image path="images/p123.jpg" filesize="45119" filedate="2015-03-19 21:29:46" width="481px" height="338px">
+</image>
+<image path="images/p127.jpg" filesize="37096" filedate="2015-02-10 20:13:56" width="371px" height="518px">
+</image>
+<image path="images/p129.jpg" filesize="37117" filedate="2015-03-19 21:32:55" width="374px" height="510px">
+</image>
+<image path="images/p130.jpg" filesize="28665" filedate="2015-03-19 21:35:37" width="469px" height="335px">
+</image>
+<image path="images/p131.jpg" filesize="65219" filedate="2015-03-20 18:55:51" width="694px" height="480px">
+</image>
+<image path="images/p132.jpg" filesize="23880" filedate="2015-03-20 18:58:40" width="477px" height="314px">
+</image>
+<image path="images/p133.jpg" filesize="32839" filedate="2015-03-20 19:01:14" width="321px" height="445px">
+</image>
+<image path="images/p136.jpg" filesize="22641" filedate="2015-03-20 19:03:59" width="478px" height="294px">
+</image>
+<image path="images/p139.jpg" filesize="30812" filedate="2015-03-20 19:06:22" width="336px" height="439px">
+</image>
+<image path="images/p141.jpg" filesize="37136" filedate="2015-03-20 19:08:39" width="476px" height="331px">
+</image>
+<image path="images/p144.jpg" filesize="26979" filedate="2015-03-20 19:10:47" width="355px" height="447px">
+</image>
+<image path="images/p146.jpg" filesize="22289" filedate="2015-03-20 19:14:39" width="477px" height="282px">
+</image>
+<image path="images/p148.jpg" filesize="32428" filedate="2015-03-21 16:22:08" width="476px" height="312px">
+</image>
+<image path="images/p149.jpg" filesize="36095" filedate="2015-03-21 16:26:15" width="480px" height="353px">
+</image>
+<image path="images/p151.jpg" filesize="40406" filedate="2015-03-21 16:28:52" width="474px" height="328px">
+</image>
+<image path="images/p153.jpg" filesize="36116" filedate="2015-03-21 16:33:17" width="479px" height="343px">
+</image>
+<image path="images/p154.jpg" filesize="30014" filedate="2015-03-22 08:13:56" width="475px" height="305px">
+</image>
+<image path="images/p156.jpg" filesize="42322" filedate="2015-03-22 08:16:32" width="480px" height="340px">
+</image>
+<image path="images/p158.jpg" filesize="34364" filedate="2015-03-22 08:18:48" width="482px" height="317px">
+</image>
+<image path="images/p159.jpg" filesize="38480" filedate="2015-03-22 08:21:20" width="477px" height="295px">
+</image>
+<image path="images/p161.jpg" filesize="33637" filedate="2015-03-22 08:23:49" width="479px" height="291px">
+</image>
+<image path="images/p163.jpg" filesize="38695" filedate="2015-03-22 08:25:53" width="482px" height="333px">
+</image>
+<image path="images/p165-1.png" filesize="2779" filedate="2015-03-17 18:20:39" width="325px" height="150px">
+</image>
+<image path="images/p165-2.png" filesize="3104" filedate="2015-03-17 18:22:26" width="325px" height="148px">
+</image>
+<image path="images/p165-3.png" filesize="3796" filedate="2015-03-17 18:25:37" width="277px" height="279px">
+</image>
+<image path="images/p166-1.png" filesize="7287" filedate="2015-03-17 18:16:35" width="477px" height="181px">
+</image>
+<image path="images/p166-2.png" filesize="5328" filedate="2015-03-17 18:18:26" width="298px" height="297px">
+</image>
+<image path="images/p167-1.png" filesize="4945" filedate="2015-03-17 18:11:57" width="297px" height="297px">
+</image>
+<image path="images/p167-2.png" filesize="5593" filedate="2015-03-17 18:14:12" width="298px" height="296px">
+</image>
+<image path="images/p168-1.png" filesize="7446" filedate="2015-03-17 18:07:32" width="302px" height="298px">
+</image>
+<image path="images/p168-2.png" filesize="5731" filedate="2015-03-17 18:09:35" width="298px" height="298px">
+</image>
+<image path="images/publogo.png" filesize="4046" filedate="2015-02-08 08:44:13" width="95px" height="102px">
+</image>
+<image path="images/rightbrace10.png" filesize="701" filedate="2015-03-20 20:01:16" width="22px" height="207px">
+</image>
+<image path="images/rightbrace3.png" filesize="319" filedate="2015-03-20 19:58:39" width="14px" height="58px">
+</image>
+<image path="images/rightbrace4.png" filesize="431" filedate="2015-03-20 19:59:58" width="18px" height="87px">
+</image>
+<image path="images/rightbrace5.png" filesize="468" filedate="2015-03-20 20:00:46" width="18px" height="104px">
+</image>
+<image path="images/titlepage.png" filesize="13461" filedate="2015-02-10 19:43:03" width="435px" height="720px">
+</image>
+</images>
